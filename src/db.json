@@ -7,7 +7,8 @@
           "series": "Season 1",
           "episode_count": 7,
           "about": "Breaking Bad follows a high school chemistry teacher turned methamphetamine manufacturer...",
-          "url": "https://example.com/watch-breaking-bad"
+          "url": "https://example.com/watch-breaking-bad",
+            "id":1
         }
     ]
 
