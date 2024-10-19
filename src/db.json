@@ -2,9 +2,12 @@
 {
     "animes": [
         {
-            "id": "1",
-            "title": "Kung Fu Panda 4: ENGLISH",
-            "img":"https://m.media-amazon.com/images/M/MV5BZGQ1NjE0MmItZDNkOS00Y2E2LTkzZDUtNTgwMjc3OGJmODc0XkEyXkFqcGc@._V1_.jpg"
+          "name": "Breaking Bad",
+          "img": "https://example.com/breaking-bad.jpg",
+          "series": "Season 1",
+          "episode_count": 7,
+          "about": "Breaking Bad follows a high school chemistry teacher turned methamphetamine manufacturer...",
+          "url": "https://example.com/watch-breaking-bad"
         }
     ]
 
